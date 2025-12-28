@@ -1,0 +1,1 @@
+# install_i3wm_for_linux_ubuntu-debian_based_with_shell_script
