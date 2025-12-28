@@ -51,4 +51,3 @@ Arquivos relevantes
 Próximos passos
 ---------------
 - Rodar o script no sistema alvo quando estiver pronto.
-- Se quiser, posso: ajustar a lista de pacotes, adicionar suporte a ZSH, criar temas para i3 ou gerar um arquivo de exemplo de wallpaper.
